@@ -1,22 +1,22 @@
 intro:
-  name: Foo Bar
-  title: Backend Developer
+  name: WooChul Shim
+  title: Project lead/Tech. lead of Automatic Software Vulnerability Analysis Project
   avatar:
     display: true
-    path: profile.png
+    path: profile.jpg
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: woochul.shim@samsung.com, wcshim40@gmail.com
+  phone: +82-10-3410-5189
   whatsapp:
   telegram:
-  website: example.com
+  website: 
   medium:
   linkedin:
-  github: github
+  github: wcshim40
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -25,18 +25,18 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Korean
       level: Native
     - idiom: English
-      level: Professional
+      level: Advanced
 
 interests:
   display: true
   title: Interests
   items:
     - item: Reading
-      link:
-    - item: Cooking
+      link: 
+    - item: Watching movies
       link:
 
 profile:
