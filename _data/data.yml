@@ -43,12 +43,9 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
-
+  + I am currently working at Security team, Samsung Research, Korea, on automated software vulnerability analysis as a project lead.
+  + My research work covers a range of topics: software obfuscation, network security for IoT devices, security development lifecycle, automated software vulnerability analysis, and threat intelligence. Currently, I am interested in synthesizing fuzz drivers automatically and expanding their applications (libraries, device drivers, firmware, etc.).
+    
 education:
   display: true
   title: Education
@@ -122,6 +119,7 @@ publications:
   items:
     - title: Google Scholar page
       link: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
+    
     (Conferences)
     - title: Cybersecurity Event Detection with New and Re-emerging words
       authors: Hyejin Shin, WooChul Shim, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
@@ -134,7 +132,7 @@ publications:
       link:
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
@@ -143,15 +141,22 @@ skills:
 
     ...
 
-evaluation:
+awards:
   display: true
-  title: Self-evaluation
+  title: Awards
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
+    Here are some awards.
+    + 2019, A Bronze prize of Samsung best paper awards, ACE: Automatic Cybersecurity Event Detector.
+    + 2014, A Bronze prize of Samsung best paper awards, Android Application Protection from Repackaging Attack by Tamper Proofing and Secure Loading.
+    
+patents:
+  display: true
+  title: Patents
+  details: |
+    + 2018, US 9,911,002, Method of modifying image including photographing restricted element, and device and system for performing the method.
+    + 2017, US 9,852,279, Device and method of setting or removing security on content.
+    + 2018, US 10,033,710, Electronic device and method of transmitting and receiving information by electronic device
+    + 2018, US 10,084,793, Electronic device for managing use of data from other electronic device and method for controlling the same
 
 footer:
   display: true
