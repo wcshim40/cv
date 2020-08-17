@@ -5,12 +5,13 @@
     <div class="section-title">
         {{ publications.title }}
     </div>
-    
+   
     <p>
     {% for publication in publications.googlescholar %}
     <div class="googlescholar">
         {% if publication.title %}
         <p class="pub-title">
+            <i class="fas fa-globe"></i>
             {% if publication.link %}
             <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
             {% else %}
