@@ -1,6 +1,6 @@
 intro:
   name: WooChul Shim (심우철)
-  title: A Project lead/Technical lead of Automatic Software Vulnerability Analysis
+  title: A Project lead and Technical lead of Automatic Software Vulnerability Analysis
   avatar:
     display: true
     path: profile.jpg
@@ -120,27 +120,27 @@ publications:
     
   items:        
     - title: Cybersecurity Event Detection with New and Re-emerging words
-      authors: Hyejin Shin, WooChul Shim, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
+      authors: Hyejin Shin, <u>WooChul Shim*</u>, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
       conference: (To appear) ASIA CCS, 2020
       link: https://samsung.github.io/W2E/about/
     
     - title: A distributed sinkhole detection method using cluster analysis
-      authors: WooChul Shim, Gisung Kim, Sehun Kim
+      authors: <u>WooChul Shim</u>, Gisung Kim, Sehun Kim
       conference: Expert Systems with Applications, 2010
       link:
       
     - title: Hierarchical system for objectionable video detection
-      authors: Seungmin Lee, WooChul Shim, Sehun Kim
+      authors: Seungmin Lee, <u>WooChul Shim</u>, Sehun Kim
       conference: IEEE Transactions on Consumer Electronics, 2009
       link:
     
     - title: Fairness-aware resource allocation in a cooperative OFDMA uplink system
-      authors: WooChul Shim, Younggoo Han, Sehun Kim
+      authors: <u>WooChul Shim</u>, Younggoo Han, Sehun Kim
       conference: IEEE Transactions on Vehicular Technology, 2009
       link:
     
     - title: A Goal Programming Approach for Resource Allocation Considering Client Demands in a Multiuser OFDMA Downlink System
-      authors: Younggoo Han, WooChul Shim, Sehun Kim
+      authors: Younggoo Han, <u>WooChul Shim</u>, Sehun Kim
       conference: IEICE transactions on communications, 2009
       link:
 
@@ -166,8 +166,8 @@ patents:
     + **US**
       + 2018, US 9,911,002, Method of modifying image including photographing restricted element, and device and system for performing the method.
       + 2017, US 9,852,279, Device and method of setting or removing security on content.
-      + 2018, US 10,033,710, Electronic device and method of transmitting and receiving information by electronic device
-      + 2018, US 10,084,793, Electronic device for managing use of data from other electronic device and method for controlling the same
+      + 2018, US 10,033,710, Electronic device and method of transmitting and receiving information by electronic device.
+      + 2018, US 10,084,793, Electronic device for managing use of data from other electronic device and method for controlling the same.
 
 footer:
   display: true
