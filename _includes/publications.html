@@ -6,11 +6,19 @@
         {{ publications.title }}
     </div>
     
-    {% if publications.googlescholar %}
+    {% for publication in publications.googlescholar %}
     <div class="googlescholar">
-        {{ publications.googlescholar | markdownify }}
+        {% if publication.title %}
+        <p class="pub-title">
+            {% if publication.link %}
+            <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
+            {% else %}
+            {{ publication.title }}
+            {% endif %}
+        </p>
+        {% endif %}
     </div>
-    {% endif %}
+    {% endfor %}
 
     {% if publications.intro %}
     <div class="intro">
