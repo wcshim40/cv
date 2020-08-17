@@ -1,0 +1,14 @@
+{% assign awards = data.awards %}
+{% if awards and awards.display %}
+<section class="section awards-section">
+
+    <div class="section-title">
+        {{ awards.title }}
+    </div>
+
+    <div class="details">
+        {{ awards.details | markdownify }}
+    </div>
+
+</section>
+{% endif %}
