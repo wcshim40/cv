@@ -121,8 +121,7 @@ publications:
   items:
     - title: Google Scholar page
       link: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
-    
-    (Conferences)
+        
     - title: Cybersecurity Event Detection with New and Re-emerging words
       authors: Hyejin Shin, WooChul Shim, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
       conference: ASIA CCS, 2020
