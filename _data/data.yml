@@ -1,6 +1,6 @@
 intro:
   name: WooChul Shim (심우철)
-  title: A Project lead and Technical lead of Automatic Software Vulnerability Analysis
+  title: A Project lead and Technical lead for Automatic Software Vulnerability Analysis
   avatar:
     display: true
     path: profile.jpg
@@ -13,7 +13,7 @@ contact:
   website: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ
   medium:
   linkedin: https://www.linkedin.com/in/woochul-shim-46a827106
-  github: wcshim40
+  github: 
   gitlab:
   bitbucket:
   twitter: 
@@ -44,7 +44,7 @@ profile:
   title: Profile
   details: |
    + **Bio and Research Interests**
-      + I am currently working at Security team, Samsung Research, Korea, on automated software vulnerability analysis as a project lead.       
+      + My major is far from cybersecurity, but since I joined Samsung Research, I have enjoyed cybersecurity until now. I am currently working as a project leader for automated software vulnerability analysis.      
       + My research work covers a range of topics: **software obfuscation**, **network security** for IoT devices, **security development lifecycle**, automated software **vulnerability analysis**, and **threat intelligence**.        
       + Currently, I am interested in synthesizing fuzz drivers automatically and expanding their applications (libraries, device drivers, firmware, etc.).
     
