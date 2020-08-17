@@ -5,7 +5,9 @@
         {{ experiences.title }}
     </div>
 
+    <ul>
     {% for experience in experiences.items %}
+    <li>
     <div class="item">
 
         <div class="upper-row">
@@ -31,7 +33,9 @@
         {% endif %}
 
     </div>
+    </li>
     {% endfor %}
+    </ul>
 
 </section>
 {% endif %}
