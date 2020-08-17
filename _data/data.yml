@@ -1,6 +1,6 @@
 intro:
   name: WooChul Shim
-  title: Project lead/Tech. lead of Automatic Software Vulnerability Analysis Project
+  title: A Project lead/Technical lead of Automatic Software Vulnerability Analysis Project
   avatar:
     display: true
     path: profile.jpg
@@ -53,25 +53,22 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Korea Advanced Institute of Science and Technology
+      time: 2006 - 2011
+      major: Idustrial Engineering, Information Technology
+      degree: PhD
       details: |
         Experience in this university:
-        + First
+        + 
         + Second
 
         ...
 
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Korea Advanced Institute of Science and Technology
+      time: 2000 - 2005
+      major: Industrial Engineering
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
+
 
         ...
 
