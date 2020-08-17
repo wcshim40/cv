@@ -5,6 +5,12 @@
     <div class="section-title">
         {{ publications.title }}
     </div>
+    
+    {% if publications.googlescholar %}
+    <div class="googlescholar">
+        {{ publications.googlescholar | markdownify }}
+    </div>
+    {% endif %}
 
     {% if publications.intro %}
     <div class="intro">
