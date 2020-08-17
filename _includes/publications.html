@@ -27,10 +27,9 @@
     {% endif %}
 
     {% for publication in publications.items %}
-    <div class="item">
+    <li><div class="item">
         {% if publication.title %}
             <p class="pub-title">
-                <li>
                 {% if publication.link %}
                 <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
                 {% else %}
@@ -45,9 +44,9 @@
             {% if publication.conference %}
             <div class="pub-conference">{{ publication.conference }}</div>
             {% endif %}
-        </li>
         {% endif %}
     </div>
+    </li>
     {% endfor %}
 
 </section>
