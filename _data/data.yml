@@ -45,7 +45,7 @@ profile:
   details: |
    + **Bio and Research Interests**
       + I am currently working at Security team, Samsung Research, Korea, on automated software vulnerability analysis as a project lead.       
-      + My research work covers a range of topics: _software obfuscation_, _network security for IoT devices_, _security development lifecycle_, _automated software vulnerability analysis_, and _threat intelligence_.        
+      + My research work covers a range of topics: **software obfuscation**, **network security** for IoT devices, **security development lifecycle**, _automated software **vulnerability analysis**, and **threat intelligence**.        
       + Currently, I am interested in synthesizing fuzz drivers automatically and expanding their applications (libraries, device drivers, firmware, etc.).
     
 education:
