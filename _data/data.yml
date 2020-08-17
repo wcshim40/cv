@@ -10,9 +10,9 @@ contact:
   phone: +82-10-3410-5189
   whatsapp:
   telegram:
-  website: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
+  website: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ
   medium:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/woochul-shim-46a827106
   github: wcshim40
   gitlab:
   bitbucket:
@@ -45,7 +45,7 @@ profile:
   details: |
    + **Bio and Research Interests**
       + I am currently working at Security team, Samsung Research, Korea, on automated software vulnerability analysis as a project lead.       
-      + My research work covers a range of topics: **software obfuscation**, **network security** for IoT devices, **security development lifecycle**, _automated software **vulnerability analysis**, and **threat intelligence**.        
+      + My research work covers a range of topics: **software obfuscation**, **network security** for IoT devices, **security development lifecycle**, automated software **vulnerability analysis**, and **threat intelligence**.        
       + Currently, I am interested in synthesizing fuzz drivers automatically and expanding their applications (libraries, device drivers, firmware, etc.).
     
 education:
@@ -147,10 +147,9 @@ publications:
 skills:
   display: false
   title: Skills
-  details: |
-    Here is my skills:
-    + First
-    + Second
+  details:
+    + **Programming Languages**: C, Java, Android, Python
+    + **Platform**: Linux, Android
 
     ...
 
@@ -159,8 +158,8 @@ awards:
   title: Awards
   details: |   
     + **In Samsung**
-      + 2019, *A Bronze prize of Samsung best paper awards*, ACE: Automatic Cybersecurity Event Detector.
-      + 2014, *A Bronze prize of Samsung best paper awards*, Android Application Protection from Repackaging Attack by Tamper Proofing and Secure Loading.
+      + 2019, *Samsung best paper award (Bronze Award)*, ACE: Automatic Cybersecurity Event Detector.
+      + 2014, *Samsung best paper award (Bronze Award)*, Android Application Protection from Repackaging Attack by Tamper Proofing and Secure Loading.
     
 patents:
   display: true
