@@ -6,8 +6,9 @@
         {{ education.title }}
     </div>
 
+    <ul>
     {% for graduation in education.items %}
-    <div class="item">
+    <li><div class="item">
 
         <div class="upper-row">
             <div class="university">{{ graduation.university }}</div>
@@ -25,8 +26,9 @@
         </div>
         {% endif %}
 
-    </div>
+        </div></li>
     {% endfor %}
+    </ul>
 
 </section>
 {% endif %}
