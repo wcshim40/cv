@@ -6,6 +6,7 @@
         {{ publications.title }}
     </div>
     
+    <p>
     {% for publication in publications.googlescholar %}
     <div class="googlescholar">
         {% if publication.title %}
@@ -19,6 +20,7 @@
         {% endif %}
     </div>
     {% endfor %}
+    </p>
 
     {% if publications.intro %}
     <div class="intro">
