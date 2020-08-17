@@ -29,21 +29,23 @@
     {% for publication in publications.items %}
     <div class="item">
         {% if publication.title %}
-        <p class="pub-title">
-            {% if publication.link %}
-            <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
-            {% else %}
-            {{ publication.title }}
+        <li>
+            <p class="pub-title">
+                {% if publication.link %}
+                <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
+                {% else %}
+                {{ publication.title }}
+                {% endif %}
+            </p>
+
+            {% if publication.authors %}
+            <div class="pub-authors">{{ publication.authors }}</div>
             {% endif %}
-        </p>
 
-        {% if publication.authors %}
-        <div class="pub-authors">{{ publication.authors }}</div>
-        {% endif %}
-
-        {% if publication.conference %}
-        <div class="pub-conference">{{ publication.conference }}</div>
-        {% endif %}
+            {% if publication.conference %}
+            <div class="pub-conference">{{ publication.conference }}</div>
+            {% endif %}
+        </li>
         {% endif %}
     </div>
     {% endfor %}
