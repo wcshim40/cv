@@ -147,11 +147,9 @@ publications:
 skills:
   display: false
   title: Skills
-  details:
-    + **Programming Languages**: C, Java, Android, Python
-    + **Platform**: Linux, Android
-
-    ...
+  details: | 
+      + **Programming Languages**: C, Java, Android, Python
+      + **Platform**: Linux, Android
 
 awards:
   display: true
