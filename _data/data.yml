@@ -115,6 +115,9 @@ publications:
   googlescholar:
     - title: Google Scholar page
       link: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
+      
+      
+      
   
   intro: |
     
@@ -122,7 +125,7 @@ publications:
     - title: Cybersecurity Event Detection with New and Re-emerging words
       authors: Hyejin Shin, WooChul Shim, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
       conference: ASIA CCS, 2020
-      link: https://samsung.github.io/W2E/about/
+      link: 
     
     - title: The Art of Bar
       authors: Foo Bar
