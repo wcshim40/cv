@@ -45,7 +45,7 @@ profile:
   details: |
    + **Bio and Research Interests**
       + I am currently working at Security team, Samsung Research, Korea, on automated software vulnerability analysis as a project lead.       
-      + My research work covers a range of topics: software obfuscation, network security for IoT devices, security development lifecycle, automated software vulnerability analysis, and threat intelligence.        
+      + My research work covers a range of topics: _software obfuscation_, _network security for IoT devices_, _security development lifecycle_, _automated software vulnerability analysis_, and _threat intelligence_.        
       + Currently, I am interested in synthesizing fuzz drivers automatically and expanding their applications (libraries, device drivers, firmware, etc.).
     
 education:
@@ -159,8 +159,8 @@ awards:
   title: Awards
   details: |   
     + **In Samsung**
-      + 2019, A Bronze prize of Samsung best paper awards, ACE: Automatic Cybersecurity Event Detector.
-      + 2014, A Bronze prize of Samsung best paper awards, Android Application Protection from Repackaging Attack by Tamper Proofing and Secure Loading.
+      + 2019, *A Bronze prize of Samsung best paper awards*, ACE: Automatic Cybersecurity Event Detector.
+      + 2014, *A Bronze prize of Samsung best paper awards*, Android Application Protection from Repackaging Attack by Tamper Proofing and Secure Loading.
     
 patents:
   display: true
