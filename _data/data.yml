@@ -57,12 +57,7 @@ education:
       time: 2006 - 2011
       major: Idustrial Engineering, Information Technology
       degree: PhD
-      details: |
-        Experience in this university:
-        + 
-        + Second
-
-        ...
+             
 
     - university: Korea Advanced Institute of Science and Technology
       time: 2000 - 2005
@@ -70,64 +65,69 @@ education:
       degree: Bachelor
 
 
-        ...
 
 experiences:
   display: true
-  title: Experiences
+  title: Work experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Software Developer
+      time: 2011.03 - 2011.12
+      company: Digital Media & Communications (DMC) R&D Center at Samsung Electronics
       tag:
-      location: Beijing
+      location: Korea
+      details: |
+       + A member of database encryption project (Java/C++, 2011)
+       
+
+    - role: Software Developer & Tech. Lead
+      time: 2012.01 - 2015.12
+      company: Software R&D Center at Samsung Electronics
+      tag: 
+      location: Korea
+      details: |
+        Experience:
+        + Tech. lead for open source project (IoTivity) (Device registration, 2015)
+        + Tech. lead for open source project (IoTivity) (DTLS support, 2014)
+        + A member of software obfuscation project (Android app., 2013)
+        + A member of software obfuscation project (native libraries, 2012)
+        
+    - role: Visiting Scholar
+      time: 2016.01 - 2016.12
+      company: Massachusetts Institute of Technology (MIT)
+      tag: 
+      location: Boston
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+        + Secure and usable device registration
+        + Effortless biometric authentication
+        
+    - role: Project Lead
+      time: 2017.01 - 
+      company: Samsung Research at Samsung Electronics
+      tag: 
+      location: Seoul
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
-
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+        + Project lead for software vulnerability analysis, and security for AI (2020)
+        + Project lead for software vulnerability analysis, and threat intelligence (2019)
+        + Project lead for software vulnerability analysis (2018)
+        + Project lead for security governance (SDL, Pen. testing, 2017)
+        
 
 publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
-
+    
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
+    - title: Google Scholar page
+      link: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
+    (Conferences)
+    - title: Cybersecurity Event Detection with New and Re-emerging words
+      authors: Hyejin Shin, WooChul Shim, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
+      conference: ASIA CCS, 2020
+      link: https://samsung.github.io/W2E/about/
+    
     - title: The Art of Bar
       authors: Foo Bar
       conference: Foobar, 2019
