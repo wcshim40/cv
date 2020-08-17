@@ -26,7 +26,8 @@
     </div>
     {% endif %}
 
-    {% for publication in publications.items %}
+    <ul>
+    {% for publication in publications.items %}    
     <li><div class="item">
         {% if publication.title %}
             <p class="pub-title">
@@ -48,6 +49,7 @@
     </div>
     </li>
     {% endfor %}
+    </ul>
 
 </section>
 {% endif %}
