@@ -10,7 +10,7 @@ contact:
   phone: +82-10-3410-5189
   whatsapp:
   telegram:
-  website: 
+  website: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
   medium:
   linkedin:
   github: wcshim40
@@ -112,8 +112,9 @@ experiences:
 publications:
   display: true
   title: Publications
-  googlescholar: Google Scholar page |
-    https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
+  googlescholar:
+    - title: Google Scholar page
+      link: https://scholar.google.com/citations?user=n0Z8hEYAAAAJ&hl=ko
   
   intro: |
     
