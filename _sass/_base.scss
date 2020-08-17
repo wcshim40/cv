@@ -104,7 +104,8 @@ p {
     }
 
     .role, .major {
-        font-style: italic;
+        font-weight: 700;
+        color: $text-grey;
     }
 
     .company, .university, .project-name, .pub-title {
@@ -138,7 +139,7 @@ p {
     }
 
     .pub-authors {
-        font-style: italic;
+        color: $text-grey;
         margin-bottom: 1px;
     }
 }
