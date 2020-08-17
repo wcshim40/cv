@@ -29,8 +29,8 @@
     {% for publication in publications.items %}
     <div class="item">
         {% if publication.title %}
-        <li>
             <p class="pub-title">
+                <li>
                 {% if publication.link %}
                 <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
                 {% else %}
