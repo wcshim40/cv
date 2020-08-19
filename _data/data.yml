@@ -44,7 +44,7 @@ profile:
   title: Profile
   details: |
    + **Bio and Research Interests**
-      + My major is far from cybersecurity, but since I joined Samsung Research, I have enjoyed cybersecurity until now. I am currently working as a project leader for automated software vulnerability analysis.      
+      + Although my major is a little bit far from cybersecurity, after I joined Samsung Research, I have been enjoying cybersecurity until now. I am currently working as a project leader for automated software vulnerability analysis.    
       + My research work covers a range of topics: **software obfuscation**, **network security** for IoT devices, **security development lifecycle**, automated software **vulnerability analysis**, and **threat intelligence**.        
       + Currently, I am interested in synthesizing fuzz drivers automatically and expanding their applications (libraries, device drivers, firmware, etc.).
     
