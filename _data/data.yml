@@ -121,7 +121,7 @@ publications:
   items:        
     - title: Cybersecurity Event Detection with New and Re-emerging words
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
-      conference: (To appear) ASIA CCS, 2020
+      conference: ASIA CCS, 2020
       link: https://samsung.github.io/W2E/about/
     
     - title: A distributed sinkhole detection method using cluster analysis
