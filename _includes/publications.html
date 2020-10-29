@@ -47,6 +47,10 @@
         {% if publication.link %}
         <div class="pub-authors"><a href="{{ publication.link }}" target="_blank">{{ publication.link }}</a></div>
         {% endif %}
+        
+        {% if publication.pdf %}
+        <div class="pub-authors"><a href="{{ publication.pdf }}" target="_blank">{{"pdf"}}</a></div>
+        {% endif %}
     </div>
     </li>
     {% endfor %}
