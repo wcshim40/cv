@@ -119,7 +119,8 @@ publications:
   intro: 
     
   items:        
-    - title: Cybersecurity Event Detection with New and Re-emerging words
+    - title: Cybersecurity Event Detection with New and Re-emerging words (<a href=https://dl.acm.org/doi/10.1145/3320269.3384721?cid=81460651861
+>pdf </a>)
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
       conference: ASIA CCS, 2020
       link: https://samsung.github.io/W2E/about/
