@@ -35,7 +35,9 @@
         {% if publication.title %}
         <p class="pub-title"> {{ publication.title }} 
             {% if publication.pdf %}
+            (
             <a href="{{ publication.pdf }}" target="_blank">{{"pdf"}}</a>
+            )
             {% endif %}
         </p>
         {% endif %}
@@ -49,7 +51,7 @@
         {% endif %}
         
         {% if publication.link %}
-        <div class="pub-authors"><a href="{{ publication.link }}" target="_blank">{{ publication.link }}</a></div>
+        <div class="pub-authors"><a href="{{ publication.link }}" target="_blank">{{ "site" }}</a></div>
         {% endif %}
         
         
