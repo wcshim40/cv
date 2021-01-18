@@ -119,7 +119,7 @@ publications:
   intro: 
     
   items:
-    - title: #Twiti: Social Listening for Threat Intelligence	 
+    - title: <span style="color:white">\</span>#Twiti: Social Listening for Threat Intelligence	 
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Saebom Kim, Sol Lee, Yong Goo Kang, Yong Ho Hwang	
       conference: The Web Conference (WWW), 2021 (To appear)
       link:
