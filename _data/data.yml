@@ -119,9 +119,11 @@ publications:
   intro: 
     
   items:
-    - title: Twiti - Social Listening for Threat Intelligence	 
+    - title: \#Twiti`:` Social Listening for Threat Intelligence	 
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Saebom Kim, Sol Lee, Yong Goo Kang, Yong Ho Hwang	
       conference: The Web Conference (WWW), 2021 (To appear)
+      link:
+      pdf:
     
     - title: Cybersecurity Event Detection with New and Re-emerging words 
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
