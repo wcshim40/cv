@@ -119,14 +119,20 @@ publications:
   intro: 
     
   items:
+    - title: "Constraint-guided Directed Greybox Fuzzing"
+      authors: Gwangmu Lee, <u>WooChul Shim</u>, and Byoungyoung Lee	
+      conference: USENIX Security Symposium (Security), 2021 (To appear)
+      link:
+      pdf:
+
     - title: "#Twiti: Social Listening for Threat Intelligence"
-      authors: Hyejin Shin, <u>WooChul Shim*</u>, Saebom Kim, Sol Lee, Yong Goo Kang, Yong Ho Hwang	
+      authors: Hyejin Shin, <u>WooChul Shim*</u>, Saebom Kim, Sol Lee, Yong Goo Kang, and Yong Ho Hwang	
       conference: The Web Conference (WWW), 2021 (To appear)
       link:
       pdf:
     
     - title: Cybersecurity Event Detection with New and Re-emerging words 
-      authors: Hyejin Shin, <u>WooChul Shim*</u>, Jiin Moon, Jae Woo Seo, Sol Lee, Yong Ho Hwang
+      authors: Hyejin Shin, <u>WooChul Shim*</u>, Jiin Moon, Jae Woo Seo, Sol Lee, and Yong Ho Hwang
       conference: ASIA CCS, 2020
       link: https://samsung.github.io/W2E/about/
       pdf: https://dl.acm.org/doi/10.1145/3320269.3384721?cid=81460651861
@@ -137,17 +143,17 @@ publications:
       link:
       
     - title: Hierarchical system for objectionable video detection
-      authors: Seungmin Lee, <u>WooChul Shim</u>, Sehun Kim
+      authors: Seungmin Lee, <u>WooChul Shim</u>, and Sehun Kim
       conference: IEEE Transactions on Consumer Electronics, 2009
       link:
     
     - title: Fairness-aware resource allocation in a cooperative OFDMA uplink system
-      authors: <u>WooChul Shim</u>, Younggoo Han, Sehun Kim
+      authors: <u>WooChul Shim</u>, Younggoo Han, and Sehun Kim
       conference: IEEE Transactions on Vehicular Technology, 2009
       link:
     
     - title: A Goal Programming Approach for Resource Allocation Considering Client Demands in a Multiuser OFDMA Downlink System
-      authors: Younggoo Han, <u>WooChul Shim</u>, Sehun Kim
+      authors: Younggoo Han, <u>WooChul Shim</u>, and Sehun Kim
       conference: IEICE transactions on communications, 2009
       link:
 
