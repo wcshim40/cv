@@ -128,7 +128,7 @@ publications:
     - title: "#Twiti: Social Listening for Threat Intelligence"
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Saebom Kim, Sol Lee, Yong Goo Kang, and Yong Ho Hwang	
       conference: The Web Conference (WWW), 2021 (To appear)
-      link:
+      link: https://github.com/Samsung/Twiti
       pdf:
     
     - title: Cybersecurity Event Detection with New and Re-emerging words 
