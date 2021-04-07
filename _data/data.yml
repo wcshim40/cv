@@ -69,12 +69,21 @@ experiences:
   display: true
   title: Work experiences
   items:
-    - role: Project Lead
-      time: 2017.01 - 
+    - role: Head of Security 1Lab
+      time: 2021.01 - present
       company: Samsung Research @ Samsung Electronics
       tag: 
       location: Seoul
       details: |
+        + Vulnerability Research Lab (Security Governance, Penetration Testing, Fuzzing, Static Analysis)
+        
+    - role: Project Lead
+      time: 2017.01 - present
+      company: Samsung Research @ Samsung Electronics
+      tag: 
+      location: Seoul
+      details: |
+        + Project lead for software vulnerability analysis (2021)
         + Project lead for software vulnerability analysis, and security for AI (2020)
         + Project lead for software vulnerability analysis, and threat intelligence (2019)
         + Project lead for software vulnerability analysis (2018)
