@@ -121,13 +121,13 @@ publications:
   items:
     - title: "Constraint-guided Directed Greybox Fuzzing"
       authors: Gwangmu Lee, <u>WooChul Shim</u>, and Byoungyoung Lee	
-      conference: USENIX Security Symposium (Security), 2021 (To appear)
-      link:
-      pdf:
+      conference: USENIX Security Symposium (Security), 2021
+      link: 
+      pdf: https://www.usenix.org/system/files/sec21fall-lee-gwangmu.pdf
 
     - title: "#Twiti: Social Listening for Threat Intelligence"
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Saebom Kim, Sol Lee, Yong Goo Kang, and Yong Ho Hwang	
-      conference: The Web Conference (WWW), 2021 (To appear)
+      conference: The Web Conference (WWW), 2021
       link: https://github.com/Samsung/Twiti
       pdf:
     
