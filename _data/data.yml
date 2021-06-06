@@ -138,7 +138,7 @@ publications:
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Saebom Kim, Sol Lee, Yong Goo Kang, and Yong Ho Hwang	
       conference: The Web Conference (WWW), 2021
       link: https://github.com/Samsung/Twiti
-      pdf:
+      pdf: https://dl.acm.org/doi/10.1145/3442381.3449797
     
     - title: Cybersecurity Event Detection with New and Re-emerging words 
       authors: Hyejin Shin, <u>WooChul Shim*</u>, Jiin Moon, Jae Woo Seo, Sol Lee, and Yong Ho Hwang
