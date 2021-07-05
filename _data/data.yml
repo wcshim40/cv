@@ -188,10 +188,11 @@ patents:
   title: Patents
   details: | 
     + **US**
-      + 2018, US 9,911,002, Method of modifying image including photographing restricted element, and device and system for performing the method.
-      + 2017, US 9,852,279, Device and method of setting or removing security on content.
+      + 2020, US 10,772,156 Electronic apparatus and method of controlling the same.
+      + 2018, US 9,911,002, Method of modifying image including photographing restricted element, and device and system for performing the method.      
       + 2018, US 10,033,710, Electronic device and method of transmitting and receiving information by electronic device.
       + 2018, US 10,084,793, Electronic device for managing use of data from other electronic device and method for controlling the same.
+      + 2017, US 9,852,279, Device and method of setting or removing security on content.
 
 footer:
   display: true
