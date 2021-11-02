@@ -172,11 +172,14 @@ opensources:
   title: Opensource projects      
   intro:     
   items:
-    - title: "CredSweeper: a tool to detect credentials in any documents."
+    - title: "CredSweeper:"
+      desc: a tool to detect credentials in any documents.
       link: https://github.com/Samsung/CredSweeper
-    - title: "CredData: a set of files including credentials in open source projects."
+    - title: "CredData:"
+      desc: a set of files including credentials in open source projects.
       link: https://github.com/Samsung/CredData
-    - title: "Twiti: a tool for extracting IOCs from tweets."
+    - title: "Twiti:"
+      desc: a tool for extracting IOCs from tweets.
       link: https://github.com/SamsungLabs/TwiTi      
 
 skills:
