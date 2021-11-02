@@ -166,6 +166,18 @@ publications:
       authors: Younggoo Han, <u>WooChul Shim</u>, and Sehun Kim
       conference: IEICE transactions on communications, 2009
       link:
+      
+opensources:
+  display: true
+  title: Opensource projects      
+  intro:     
+  items:
+    - title: "CredSweeper: a tool to detect credentials in any documents."
+      link: https://github.com/Samsung/CredSweeper
+    - title: "CredData: a set of files including credentials in open source projects."
+      link: https://github.com/Samsung/CredData
+    - title: "Twiti: a tool for extracting IOCs from tweets."
+      link: https://github.com/SamsungLabs/TwiTi      
 
 skills:
   display: false
