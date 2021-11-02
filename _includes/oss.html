@@ -1,0 +1,45 @@
+{% assign opensources = data.opensources %}
+{% if opensources and opensources.display %}
+<section class="section opensources-section">
+
+    <div class="section-title">
+        {{ opensources.title }}
+    </div>
+   
+    {% if opensources.intro %}
+    <div class="intro">
+        {{ opensources.intro | markdownify }}
+    </div>
+    {% endif %}
+
+    <ul>
+    {% for opensource in opensources.items %}    
+    <li><div class="item">
+        {% if opensource.title %}
+        <p class="title"> {{ opensource.title }} 
+            {% if opensource.pdf %}
+            (<a href="{{ opensource.pdf }}" target="_blank">{{"pdf"}}</a>)
+            {% endif %}
+        </p>
+        {% endif %}
+
+        {% if opensource.authors %}
+        <div class="pub-authors">{{ opensource.authors }}</div>
+        {% endif %}        
+        
+        {% if opensource.link %}
+        <div class="pub-authors"><a href="{{ opensource.link }}" target="_blank">{{ opensource.link }}</a></div>
+        {% endif %}
+        
+        {% if opensource.blog %}
+        <div class="pub-blog"><a href="{{ opensource.blog }}" target="_blank">{{ opensource.blog }}</a></div>
+        {% endif %}
+        
+        
+    </div>
+    </li>
+    {% endfor %}
+    </ul>
+
+</section>
+{% endif %}
