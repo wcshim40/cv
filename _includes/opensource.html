@@ -16,7 +16,7 @@
     {% for opensource in opensources.items %}    
     <li><div class="item">
         {% if opensource.title %}
-        <p class="title"> {{ opensource.title }} 
+        <p class="pub-title"> {{ opensource.title }} 
             {% if opensource.pdf %}
             (<a href="{{ opensource.pdf }}" target="_blank">{{"pdf"}}</a>)
             {% endif %}
