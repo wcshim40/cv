@@ -186,7 +186,14 @@ skills:
   display: false
   title: Skills
   details: | 
-      + **Programming Languages**: C, Java, Android, Python
+      + 2021, , SSDC, https://www.youtube.com/watch?v=--PSVSxNXEg&feature=youtu.be&ab_channel=SOSCONHelp
+      + 2021, , SDC, https://www.youtube.com/watch?v=6ya6-Vt9FFg&ab_channel=SamsungDevelopers
+
+talks:
+  display: false
+  title: Talks
+  details: | 
+      + **Programming Languages**: 
       + **Platform**: Linux, Android
 
 awards:
