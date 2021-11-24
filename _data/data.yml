@@ -3,7 +3,7 @@ intro:
   title: Head of Security 1Lab @ Samsung Research
   avatar:
     display: true
-    path: profile.jpg
+    path: profile_color.png
 
 contact:
   email: woochul.shim@samsung.com, wcshim40@gmail.com
@@ -128,6 +128,12 @@ publications:
   intro: 
     
   items:
+    - title: "On Data Licenses for Open Source Threat Intelligence" (To appear)
+      authors: <u>WooChul Shim</u>, Hyejin Shin*, and Yong Ho Hwang	
+      conference: IEEE Security & Privacy (Journal), 2022 
+      link: 
+      pdf: 
+      
     - title: "Constraint-guided Directed Greybox Fuzzing"
       authors: Gwangmu Lee, <u>WooChul Shim</u>, and Byoungyoung Lee	
       conference: USENIX Security Symposium (Security), 2021
