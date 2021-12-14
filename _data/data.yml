@@ -128,11 +128,11 @@ publications:
   intro: 
     
   items:
-    - title: "On Data Licenses for Open Source Threat Intelligence (To appear)"
+    - title: "On Data Licenses for Open Source Threat Intelligence"
       authors: <u>WooChul Shim</u>, Hyejin Shin*, and Yong Ho Hwang	
       conference: "IEEE Security & Privacy, 2022"
       link: 
-      pdf: 
+      pdf: https://ieeexplore.ieee.org/document/9631947
       
     - title: "Constraint-guided Directed Greybox Fuzzing"
       authors: Gwangmu Lee, <u>WooChul Shim</u>, and Byoungyoung Lee	
