@@ -45,7 +45,7 @@ profile:
   details: |
    + **Bio and Research Interests**
       + Although my major is a little bit far from cybersecurity, after I joined Samsung Research, I have been enjoying cybersecurity until now. I am currently working as a project leader for automated software vulnerability analysis.    
-      + My research work covers a range of topics: **software obfuscation**, **network security** for IoT devices, **security development lifecycle**, automated software **vulnerability analysis**, and **threat intelligence**.        
+      + My research work covers a range of topics: **software obfuscation**, **connectivity security** for IoT devices, **security development lifecycle**, automated software **vulnerability analysis**, and **threat intelligence**.        
       + Currently, I am interested in synthesizing fuzz drivers automatically and expanding their applications (libraries, device drivers, firmware, etc.).
     
 education:
@@ -69,13 +69,13 @@ experiences:
   display: true
   title: Work experiences
   items:
-    - role: Head of Security 1Lab
+    - role: Head of Security Assurance Lab.
       time: 2021.01 - present
       company: Samsung Research @ Samsung Electronics
       tag: 
       location: Seoul
       details: |
-        + Vulnerability Research Lab (Security Governance, Penetration Testing, Fuzzing, Static Analysis)
+        + Security Assurance Lab. (Security Governance, Penetration Testing, Fuzzing, Static Analysis)
         
     - role: Project Lead
       time: 2017.01 - present
