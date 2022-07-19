@@ -128,6 +128,12 @@ publications:
   intro: 
     
   items:
+    - title: "UTOPIA: Automatic Fuzz Driver Generation using Unit Tests"
+      authors: Bokdeuk Jeong, Joonun Jang, Hayoon Yi, Jiin Moon, Junsik Kim, Intae Jeon, Taesoo Kim, <u>WooChul Shim</u>, Yong Ho Hwang
+      conference: IEEE Symposium on Security and Privacy (SP), 2023 (To appear)
+      link: https://github.com/Samsung/UTopia
+      pdf: 
+      
     - title: "On Data Licenses for Open Source Threat Intelligence"
       authors: <u>WooChul Shim</u>, Hyejin Shin*, and Yong Ho Hwang	
       conference: "IEEE Security & Privacy, 2022"
