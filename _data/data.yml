@@ -1,6 +1,6 @@
 intro:
   name: WooChul Shim (심우철)
-  title: Head of Security 1Lab @ Samsung Research
+  title: Head of Security Assurance Lab @ Samsung Research
   avatar:
     display: true
     path: profile_color.png
@@ -129,9 +129,10 @@ publications:
     
   items:
     - title: "UTOPIA: Automatic Fuzz Driver Generation using Unit Tests"
-      authors: Bokdeuk Jeong, Joonun Jang, Hayoon Yi, Jiin Moon, Junsik Kim, Intae Jeon, Taesoo Kim, <u>WooChul Shim</u>, Yong Ho Hwang
+      authors: Bokdeuk Jeong, Joonun Jang, Hayoon Yi, Jiin Moon, Junsik Kim, Intae Jeon, Taesoo Kim, <u>WooChul Shim*0</u>, Yong Ho Hwang
       conference: IEEE Symposium on Security and Privacy (SP), 2023 (To appear)
       link: https://github.com/Samsung/UTopia
+      blog: https://research.samsung.com/blog/UTopia-From-unit-tests-to-fuzzing
       pdf: 
       
     - title: "On Data Licenses for Open Source Threat Intelligence"
