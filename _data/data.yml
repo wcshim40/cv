@@ -129,7 +129,7 @@ publications:
     
   items:
     - title: "UTOPIA: Automatic Fuzz Driver Generation using Unit Tests"
-      authors: Bokdeuk Jeong, Joonun Jang, Hayoon Yi, Jiin Moon, Junsik Kim, Intae Jeon, Taesoo Kim, <u>WooChul Shim*0</u>, Yong Ho Hwang
+      authors: Bokdeuk Jeong, Joonun Jang, Hayoon Yi, Jiin Moon, Junsik Kim, Intae Jeon, Taesoo Kim, <u>WooChul Shim*</u>, Yong Ho Hwang
       conference: IEEE Symposium on Security and Privacy (SP), 2023 (To appear)
       link: https://github.com/Samsung/UTopia
       blog: https://research.samsung.com/blog/UTopia-From-unit-tests-to-fuzzing
@@ -194,6 +194,9 @@ opensources:
     - title: "Twiti:"
       desc: a tool for extracting IOCs from tweets.
       link: https://github.com/SamsungLabs/TwiTi      
+    - title: "UTOPIA:"
+      desc: a tool for automatically generating fuzz drivers from unit tests.
+      link: https://github.com/Samsung/UTopia
 
 skills:
   display: false
