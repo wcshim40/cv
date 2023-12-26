@@ -1,13 +1,13 @@
 intro:
   name: WooChul Shim (심우철)
-  title: Corporate Vice President, Head of Security Assurance Lab @ Samsung Research
+  title: Corporate Vice President, Head of Samsung R&D Institute Poland
   avatar:
     display: true
     path: profile_color.png
 
 contact:
   email: woochul.shim@samsung.com, wcshim40@gmail.com
-  phone: +82-10-3410-5189
+  phone: +82-10-3410-5189, 
   whatsapp:
   telegram:
   website: scholar.google.com/citations?user=n0Z8hEYAAAAJ
@@ -69,8 +69,15 @@ experiences:
   display: true
   title: Work experiences
   items:
+    - role: Head of Samsung R&D Institute Poland
+      time: 2023.12 - present
+      company: Samsung R&D Institute Poland
+      tag: 
+      location: Warsaw
+      details: 
+  
     - role: Head of Security Assurance Lab.
-      time: 2021.01 - present
+      time: 2021.01 - 2023.12
       company: Samsung Research @ Samsung Electronics
       tag: 
       location: Seoul
