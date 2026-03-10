@@ -1,6 +1,6 @@
 intro:
   name: WooChul Shim (심우철)
-  title: Corporate Vice President, Head of Samsung R&D Institute Poland
+  title: Corporate Vice President | Head of Samsung R&D Institute Poland | AI Transformation & Engineering Operations Leader
   avatar:
     display: true
     path: profile_color.png
@@ -43,11 +43,11 @@ profile:
   display: true
   title: Profile
   details: |
-   + **Bio and Research Interests**
-      + Although my major is a little bit far from cybersecurity, after I joined Samsung Research, I have been enjoying cybersecurity until now.
-      + My research work covers a range of topics: **software obfuscation**, **connectivity security** for IoT devices, **security development lifecycle**, automated software **vulnerability analysis**, and **threat intelligence**.        
-      + Currently, I'm interested in security test methods that work in CI/CD pipeline.
-    
+   + Executive Profile
+     + Executive leader specializing in AI transformation for complex engineering organizations. My background combines software engineering, cybersecurity, research leadership, and institute-level operations, with a focus on turning established organizations into AI-enabled operating systems.
+     + I have led teams and programs spanning security governance, penetration testing, fuzzing, vulnerability analysis, threat intelligence, and security for AI. My core strength is translating technical complexity into scalable workflows, measurable execution, and trustworthy adoption.
+     + I am particularly interested in roles that require redesigning workflows, embedding AI into day-to-day operations, and delivering quantifiable gains in productivity, quality, and assurance. 
+
 education:
   display: true
   title: Education
@@ -74,7 +74,10 @@ experiences:
       company: Samsung R&D Institute Poland
       tag: 
       location: Warsaw
-      details: 
+      details: |
+        + Lead institute operations, organizational performance, and cross-functional execution for Samsung R&D Institute Poland.
+        + Drive AI transformation across engineering and operational workflows, focusing on measurable improvements in productivity, cycle time, quality, and governance.
+        + Define and institutionalize AI adoption mechanisms, including use-case prioritization, rollout governance, performance metrics, and responsible-use guardrails.Partner with global leadership to align site strategy, execution discipline, and capability development with enterprise priorities.
   
     - role: Head of Security Assurance Lab.
       time: 2021.01 - 2023.12
