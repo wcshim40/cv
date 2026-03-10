@@ -43,10 +43,10 @@ profile:
   display: true
   title: Profile
   details: |
-   + Executive Profile
-     + Executive leader specializing in **AI transformation for complex engineering organizations**. My background combines software engineering, cybersecurity, research leadership, and institute-level operations, with a focus on turning established organizations into AI-enabled operating systems.
-     + I have led teams and programs spanning security governance, penetration testing, fuzzing, vulnerability analysis, threat intelligence, and security for AI. My core strength is translating technical complexity into scalable workflows, measurable execution, and trustworthy adoption.
-     + I am particularly interested in roles that require **redesigning workflows, embedding AI into day-to-day operations, and delivering quantifiable gains in productivity, quality, and assurance**. 
+    + **Executive Profile**
+      + Executive leader specializing in **AI transformation for complex engineering organizations**. My background combines software engineering, cybersecurity, research leadership, and institute-level operations, with a focus on turning established organizations into AI-enabled operating systems.
+      + I have led teams and programs spanning security governance, penetration testing, fuzzing, vulnerability analysis, threat intelligence, and security for AI. My core strength is translating technical complexity into scalable workflows, measurable execution, and trustworthy adoption.
+      + I am particularly interested in roles that require **redesigning workflows, embedding AI into day-to-day operations, and delivering quantifiable gains in productivity, quality, and assurance**. 
 
 education:
   display: true
